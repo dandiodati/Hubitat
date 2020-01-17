@@ -31,7 +31,7 @@ metadata {
 		capability "Actuator"
 		capability "Switch"
         capability "Momentary"
-        capability "Button"
+        capability "PushableButton"
         capability "Contact Sensor"
 		capability "Sensor"
 		capability "Battery"
